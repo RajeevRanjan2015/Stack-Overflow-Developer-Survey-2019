@@ -7,4 +7,6 @@ The objective of the analysis is centered around finding below questions:
  3. Which country provides best salary ?
  4. How about the chances of finding jobs when any non-developer moves to developing field?
 
-### The answer to above mentioned questions are tried to answered keeping Data Science & Machine Learning specialist in mind.
+#### The answer to above mentioned questions are explored keeping Data Science & Machine Learning specialist in mind.
+
+## Table of content:
