@@ -1,0 +1,86 @@
+Select,Column,QuestionText
+1,Respondent,Randomized respondent ID number (not in order of survey response time)
+1,MainBranch,"Which of the following options best describes you today? Here, by ""developer"" we mean ""someone who writes code."""
+1,Hobbyist,Do you code as a hobby?
+1,OpenSourcer,How often do you contribute to open source?
+0,OpenSource,How do you feel about the quality of open source software (OSS)?
+1,Employment,Which of the following best describes your current employment status?
+1,Country,In which country do you currently reside?
+1,Student,"Are you currently enrolled in a formal, degree-granting college or university program?"
+1,EdLevel,Which of the following best describes the highest level of formal education that you’ve completed?
+1,UndergradMajor,What was your main or most important field of study?
+1,EduOther,Which of the following types of non-degree education have you used or participated in? Please select all that apply.
+1,OrgSize,Approximately how many people are employed by the company or organization you work for?
+1,DevType,Which of the following describe you? Please select all that apply.
+1,YearsCode,"Including any education, how many years have you been coding?"
+1,Age1stCode,"At what age did you write your first line of code or program? (E.g., webpage, Hello World, Scratch project)"
+1,YearsCodePro,How many years have you coded professionally (as a part of your work)?
+1,CareerSat,"Overall, how satisfied are you with your career thus far?"
+1,JobSat,"How satisfied are you with your current job? (If you work multiple jobs, answer for the one you spend the most hours on.)"
+1,MgrIdiot,How confident are you that your manager knows what they’re doing?
+1,MgrMoney,Do you believe that you need to be a manager to make more money?
+1,MgrWant,Do you want to become a manager yourself in the future?
+1,JobSeek,Which of the following best describes your current job-seeking status?
+1,LastHireDate,When was the last time that you took a job with a new employer?
+0,LastInt,"In your most recent successful job interview (resulting in a job offer), you were asked to... (check all that apply)"
+0,FizzBuzz,Have you ever been asked to solve FizzBuzz in an interview?
+1,JobFactors,"Imagine that you are deciding between two job offers with the same compensation, benefits, and location. Of the following factors, which 3 are MOST important to you?"
+1,ResumeUpdate,"Think back to the last time you updated your resumé, CV, or an online profile on a job site. What is the PRIMARY reason that you did so?"
+1,CurrencySymbol,"Which currency do you use day-to-day? If your answer is complicated, please pick the one you're most comfortable estimating in."
+1,CurrencyDesc,"Which currency do you use day-to-day? If your answer is complicated, please pick the one you're most comfortable estimating in."
+1,CompTotal,"What is your current total compensation (salary, bonuses, and perks, before taxes and deductions), in `CurrencySymbol`? Please enter a whole number in the box below, without any punctuation. If you are paid hourly, please estimate an equivalent weekly, monthly, or yearly salary. If you prefer not to answer, please leave the box empty."
+1,CompFreq,"Is that compensation weekly, monthly, or yearly?"
+1,ConvertedComp,"Salary converted to annual USD salaries using the exchange rate on 2019-02-01, assuming 12 working months and 50 working weeks."
+1,WorkWeekHrs,"On average, how many hours per week do you work?"
+0,WorkPlan,How structured or planned is your work?
+1,WorkChallenge,"Of these options, what are your greatest challenges to productivity as a developer? Select up to 3:"
+1,WorkRemote,How often do you work remotely?
+1,WorkLoc,Where would you prefer to work?
+1,ImpSyn,"For the specific work you do, and the years of experience you have, how do you rate your own level of competence?"
+0,CodeRev,Do you review code as part of your work?
+0,CodeRevHrs,"On average, how many hours per week do you spend on code review?"
+0,UnitTests,Does your company regularly employ unit tests in the development of their products?
+1,PurchaseHow,"How does your company make decisions about purchasing new technology (cloud, AI, IoT, databases)?"
+1,PurchaseWhat,"What level of influence do you, personally, have over new technology purchases at your organization?"
+1,LanguageWorkedWith,"Which of the following programming, scripting, and markup languages have you done extensive development work in over the past year, and which do you want to work in over the next year?  (If you both worked with the language and want to continue to do so, please check both boxes in that row.)"
+1,LanguageDesireNextYear,"Which of the following programming, scripting, and markup languages have you done extensive development work in over the past year, and which do you want to work in over the next year?  (If you both worked with the language and want to continue to do so, please check both boxes in that row.)"
+1,DatabaseWorkedWith,"Which of the following database environments have you done extensive development work in over the past year, and which do you want to work in over the next year?   (If you both worked with the database and want to continue to do so, please check both boxes in that row.)"
+1,DatabaseDesireNextYear,"Which of the following database environments have you done extensive development work in over the past year, and which do you want to work in over the next year?   (If you both worked with the database and want to continue to do so, please check both boxes in that row.)"
+1,PlatformWorkedWith,"Which of the following platforms have you done extensive development work for over the past year?   (If you both developed for the platform and want to continue to do so, please check both boxes in that row.)"
+1,PlatformDesireNextYear,"Which of the following platforms have you done extensive development work for over the past year?   (If you both developed for the platform and want to continue to do so, please check both boxes in that row.)"
+1,WebFrameWorkedWith,"Which of the following web frameworks have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the framework and want to continue to do so, please check both boxes in that row.)"
+1,WebFrameDesireNextYear,"Which of the following web frameworks have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the framework and want to continue to do so, please check both boxes in that row.)"
+1,MiscTechWorkedWith,"Which of the following other frameworks, libraries, and tools have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the technology and want to continue to do so, please check both boxes in that row.)"
+1,MiscTechDesireNextYear,"Which of the following other frameworks, libraries, and tools have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the technology and want to continue to do so, please check both boxes in that row.)"
+1,DevEnviron,Which development environment(s) do you use regularly?  Please check all that apply.
+1,OpSys,What is the primary operating system in which you work?
+1,Containers,"How do you use containers (Docker, Open Container Initiative (OCI), etc.)?"
+1,BlockchainOrg,How is your organization thinking about or implementing blockchain technology?
+1,BlockchainIs,Blockchain / cryptocurrency technology is primarily:
+1,BetterLife,Do you think people born today will have a better life than their parents?
+0,ITperson,"Are you the ""IT support person"" for your family?"
+0,OffOn,Have you tried turning it off and on again?
+1,SocialMedia,What social media site do you use the most?
+0,Extraversion,Do you prefer online chat or IRL conversations?
+0,ScreenName,What do you call it?
+0,SOVisit1st,"To the best of your memory, when did you first visit Stack Overflow?"
+1,SOVisitFreq,How frequently would you say you visit Stack Overflow?
+0,SOVisitTo,I visit Stack Overflow to... (check all that apply)
+0,SOFindAnswer,"On average, how many times a week do you find (and use) an answer on Stack Overflow?"
+0,SOTimeSaved,"Think back to the last time you solved a coding problem using Stack Overflow, as well as the last time you solved a problem using a different resource. Which was faster?"
+1,SOHowMuchTime,"About how much time did you save? If you're not sure, please use your best estimate."
+0,SOAccount,Do you have a Stack Overflow account?
+1,SOPartFreq,"How frequently would you say you participate in Q&A on Stack Overflow? By participate we mean ask, answer, vote for, or comment on questions."
+0,SOJobs,Have you ever used or visited Stack Overflow Jobs?
+0,EntTeams,Have you ever used Stack Overflow for Enterprise or Stack Overflow for Teams?
+0,SOComm,Do you consider yourself a member of the Stack Overflow community?
+0,WelcomeChange,"Compared to last year, how welcome do you feel on Stack Overflow?"
+1,SONewContent,Would you like to see any of the following on Stack Overflow? Check all that apply.
+1,Age,"What is your age (in years)? If you prefer not to answer, you may leave this question blank."
+1,Gender,"Which of the following do you currently identify as? Please select all that apply. If you prefer not to answer, you may leave this question blank."
+1,Trans,Do you identify as transgender?
+1,Sexuality,"Which of the following do you currently identify as? Please select all that apply. If you prefer not to answer, you may leave this question blank."
+0,Ethnicity,"Which of the following do you identify as? Please check all that apply. If you prefer not to answer, you may leave this question blank."
+0,Dependents,"Do you have any dependents (e.g., children, elders, or others) that you care for?"
+0,SurveyLength,How do you feel about the length of the survey this year?
+0,SurveyEase,How easy or difficult was this survey to complete?
