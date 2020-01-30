@@ -32,9 +32,9 @@ I will be sharing the jupyter notebook having codes used for the analysis and th
 
 2. jQuery, Flask, and Django are the most frequently used framework by the developers who identify themselves as Data scientist or ML specialist.
 
-3.Pandas and Tensorflow are the most used data science tool today. Pandas crealy win the race by quite a bit margin. Pandas is preferred by almost 47% of the data science professional as most used tool for data analysis.
+ 3.Pandas and Tensorflow are the most used data science tool today. Pandas crealy win the race by quite a bit margin. Pandas is preferred by almost 47% of the data science professional as most used tool for data analysis.
 
-4.Clearly, maximum number of data science professional are having 2 yrs' of experience and also most of them started coding at 15 yrs' of age. So, any time in your career you can start learning coding and there are very good chances of finding job as well as we can see even less than 1 year of experienced data science professionals are also there in good number.
+ 4.Clearly, maximum number of data science professional are having 2 yrs' of experience and also most of them started coding at 15 yrs' of age. So, any time in your career you can start learning coding and there are very good chances of finding job as well as we can see even less than 1 year of experienced data science professionals are also there in good number.
 
 5. United state has maximum number od data scientists followed by India and Germany. Also United State has highest salary package for any data scientists.
 
