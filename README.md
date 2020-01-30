@@ -11,3 +11,19 @@ The objective of the analysis is centered around finding below questions:
 #### The answer to above mentioned questions are explored keeping Data Science & Machine Learning specialist in mind.
 
 ## Table of content:
+1. Summary 
+2. Dataset used
+3. About the project
+4. Prequisite
+5. How you can run
+6. Acknowledgement
+
+### Summary:
+
+Basically EDA (Exploratory data Analysis) is carried out on the stack overflow 2019 developer survey keeping data science and machine learning specialist in mind. The idea is that let's explore some of the burning questions before any data science aspirants today and try to answer some of those using the data.
+Before going forwards let's agree on the analysis id restricted to basically 5 questions that were ,mentioned in the introduction itself.
+I will be sharing the jupyter notebook having codes used for the analysis and the blog which is shared on the medium platform.
+[Blog here](https://medium.com/@cs.er.rajeev.ranjan/a-thought-towards-data-science-8d467792902d?source=friends_link&sk=63768d7eaa14c4ba1f6a7baa48411204)
+
+
+
