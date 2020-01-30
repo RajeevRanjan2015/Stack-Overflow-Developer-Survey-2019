@@ -4,8 +4,9 @@ The motivation behind this project is to do analysis of the Stack overflow devel
 The objective of the analysis is centered around finding below questions:
  1. Which is the preffered programming language ?
  2. Which is the most used framework today?
- 3. Which country provides best salary ?
+ 3. which is the most used tool by the data science professionals? 
  4. How about the chances of finding jobs when any non-developer moves to developing field?
+ 5. Which country provides best salary ?
 
 #### The answer to above mentioned questions are explored keeping Data Science & Machine Learning specialist in mind.
 
